@@ -210,7 +210,8 @@
                 "contacts": [
                     "Maxence Th\u00e9venet",
                     "Kristjan P\u00f5der",
-                    "Andreas Maier"
+                    "Andreas Maier",
+                    "Rob Shalloo"
                 ],
                 "dev-codes": [
                     "warpx",
@@ -1106,7 +1107,8 @@
                     "hipace++",
                     "lasy",
                     "openpmd",
-                    "optimas"
+                    "optimas",
+                    "wake-t"
                 ]
             },
             "type": "Feature"
@@ -1453,7 +1455,8 @@
                 "institution": "Center for Physical Sciences and Technology",
                 "name": "Center for Physical Sciences and Technology",
                 "user-codes": [
-                    "fbpic"
+                    "fbpic",
+                    "wake-t"
                 ]
             },
             "type": "Feature"
@@ -2075,6 +2078,32 @@
                 "name": "Electric Sky",
                 "user-codes": [
                     "FBPIC"
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.1768071,
+                    48.6983272
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "contacts": [
+                    "Kevin Cassou"
+                ],
+                "dev-codes": [
+                    ""
+                ],
+                "domain": [
+                    "laser-plasma"
+                ],
+                "institution": "Universit\u00e9 Paris-Saclay, CNRS",
+                "name": "IN2P3",
+                "user-codes": [
+                    "wake-t"
                 ]
             },
             "type": "Feature"
