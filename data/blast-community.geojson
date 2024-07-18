@@ -2054,6 +2054,30 @@
                 ]
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.330062,
+                    47.6038321
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "contacts": [
+                    "Jeff Greason"
+                ],
+                "dev-codes": [],
+                "domain": [
+                    "propulsion"
+                ],
+                "institution": "Tau Zero Foundation",
+                "name": "Electric Sky",
+                "user-codes": [
+                    "FBPIC"
+                ]
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
