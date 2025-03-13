@@ -2098,9 +2098,7 @@
                 "contacts": [
                     "Kevin Cassou"
                 ],
-                "dev-codes": [
-                    ""
-                ],
+                "dev-codes": [],
                 "domain": [
                     "laser-plasma"
                 ],
@@ -2135,6 +2133,32 @@
                 "name": "Physics Unit",
                 "user-codes": [
                     "wake-t"
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.934581,
+                    54.583790
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "contacts": [
+                    "Daniel Molloy",
+                    "Holly Huddleston"
+                ],
+                "dev-codes": [],
+                "domain": [
+                    "laser-plasma"
+                ],
+                "institution": "Queen's University Belfast",
+                "name": "Centre for Light-Matter Interactions, School of Maths and Physics",
+                "user-codes": [
+                    "warpx",
+                    "openpmd"
                 ]
             },
             "type": "Feature"
