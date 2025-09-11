@@ -2140,6 +2140,33 @@
                 ]
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.3002905,
+                    35.9523916
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "contacts": [
+                    "Austin Hoover"
+                ],
+                "dev-codes": [
+                    ""
+                ],
+                "domain": [
+                    "beam",
+                    "neutron"
+                ],
+                "institution": "Oak Ridge National Laboratory (ORNL)",
+                "name": "Spallation Neutron Source (SNS)",
+                "user-codes": [
+                    "ImpactX"
+                ]
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
