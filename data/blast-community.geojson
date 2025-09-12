@@ -2167,6 +2167,32 @@
                 ]
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.7083093,
+                    37.687781
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "contacts": [
+                    "Jeremy Martin Hill"
+                ],
+                "dev-codes": [
+                    ""
+                ],
+                "domain": [
+                    "beam"
+                ],
+                "institution": "Lawrence Livermore National Laboratory",
+                "name": "ASD SCORPIUS Accelerator",
+                "user-codes": [
+                    "ImpactX"
+                ]
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
