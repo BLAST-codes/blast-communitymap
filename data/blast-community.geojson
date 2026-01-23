@@ -436,6 +436,36 @@
         {
             "geometry": {
                 "coordinates": [
+                    -88.239594,
+                    41.8571158, 
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "contacts": [
+                    "Nikita Kuklev",
+                    "Nilanjan Banerjee"
+                ],
+                "dev-codes": [
+                    "impactx",
+                    "openpmd"
+                ],
+                "domain": [
+                    "beams",
+                    "accelerators"
+                ],
+                "institution": "Fermilab",
+                "name": "Fermilab Accelerator Science and Technology facility",
+                "user-codes": [
+                    "impactx",
+                    "openpmd"
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -76.4817,
                     37.0966
                 ],
